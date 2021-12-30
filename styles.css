@@ -1,0 +1,47 @@
+body {
+	background: linear-gradient(to left, #f6e3ff, #d494f2);
+	font-family: Hahmlet;
+}
+
+h1 {
+	font-size: 45px;
+	text-align: center;
+	color:  #ffffff;	
+}
+
+#container {
+	width: 900px;
+	margin: 70px auto;	
+}
+
+#crossicon {
+	font-size: 150px;
+	width: 500px;
+	margin: auto;
+	color: skyblue;
+	text-align: center;
+}
+
+button {
+	background-color: lightpink;
+	border: none;
+	color: white;
+	padding: 16px 55px;
+	text-align: center;
+	margin: 40px auto;
+	display: block;
+	cursor: pointer;
+	border-radius: 10px;
+	font-size: 36px;
+}
+
+
+
+
+
+
+
+
+
+
+
