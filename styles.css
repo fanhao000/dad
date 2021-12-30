@@ -22,6 +22,12 @@ h1 {
 	text-align: center;
 }
 
+video {
+	transform: rotate(270deg);
+	margin: auto;
+	align-content: center;
+}
+
 button {
 	background-color: lightpink;
 	border: none;
